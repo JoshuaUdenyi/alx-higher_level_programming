@@ -2,5 +2,4 @@
 #Author - Udenyi Joshua
 
 def add(a, b):
-    add = a + b
-    print(add)
+    return (a + b)
