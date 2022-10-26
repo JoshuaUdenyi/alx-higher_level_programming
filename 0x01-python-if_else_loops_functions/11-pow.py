@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-# Author - Udenyi Joshua
+# Author -Bamidele Adefolaju
 
 def pow(a, b):
-    """
-    Function to calculate power
-    """
     return (a ** b)
